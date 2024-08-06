@@ -11,7 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8694e5ab-e576-4fb4-85a7-bb45f2a4e4d0" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/panchenko/spring/rest/controller/MyRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/panchenko/spring/rest/controller/MyRestController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,7 +194,7 @@
       <workItem from="1722872775786" duration="98000" />
       <workItem from="1722872909186" duration="1841000" />
       <workItem from="1722932091718" duration="3084000" />
-      <workItem from="1722937425118" duration="2856000" />
+      <workItem from="1722937425118" duration="3898000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
