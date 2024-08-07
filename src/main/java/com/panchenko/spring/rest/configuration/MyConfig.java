@@ -10,7 +10,6 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 
 import javax.sql.DataSource;
-import javax.xml.crypto.Data;
 import java.beans.PropertyVetoException;
 import java.util.Properties;
 
